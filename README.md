@@ -28,7 +28,7 @@ Run the script from Command Prompt or PowerShell:
 python steam_shutdown.py
 
 
-##Notes
+## Notes
 Works only on Windows (uses Windows shutdown command).
 
 You can stop it anytime using Ctrl + C.
