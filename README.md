@@ -30,7 +30,5 @@ python steam_shutdown.py
 
 ## Notes
 Works only on Windows (uses Windows shutdown command).
-
 You can stop it anytime using Ctrl + C.
-
 Make sure to save all your work before running the script.
