@@ -18,17 +18,17 @@ A simple Python script that monitors your Steam download folder and automaticall
    cd steam-auto-shutdown
 
 
-Edit the script to set your Steam downloading folder path:
+2. Edit the script to set your Steam downloading folder path:
 download_folder = r"C:\Program Files (x86)\Steam\steamapps\downloading"
 
-Adjust the idle time limit if needed:
+3. Adjust the idle time limit if needed:
 idle_time_limit = 30  # seconds
 
-Run the script from Command Prompt or PowerShell:
+4. Run the script from Command Prompt or PowerShell:
 python steam_shutdown.py
 
 
 ## Notes
-Works only on Windows (uses Windows shutdown command).
-You can stop it anytime using Ctrl + C.
-Make sure to save all your work before running the script.
+- Works only on Windows (uses Windows shutdown command).
+- You can stop it anytime using Ctrl + C.
+- Make sure to save all your work before running the script.
