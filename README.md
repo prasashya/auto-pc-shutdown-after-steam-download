@@ -14,7 +14,7 @@ A simple Python script that monitors your Steam download folder and automaticall
 ## Installation
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/steam-auto-shutdown.git
+   git clone https://github.com/prasashya/steam-auto-shutdown.git
    cd steam-auto-shutdown
 
 
